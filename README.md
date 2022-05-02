@@ -1,7 +1,7 @@
 - 👋 Olá, sou o Adriano 
-- 👀 Me interesso pela área de tecnoloogia. 
+- 👀 Me interesso pela área de tecnologia. 
 - 🌱 Atualmente estou seguindo meu aprendizado em linguagens de programação, com foco em python 
-- 💞️ Busco colaborar com projetos nesse área de programação e desenvolvimento. 
+- 💞️ Busco colaborar com projetos nessa área de programação e desenvolvimento. 
 - 📫 E-mail para contato: ramos.adriano.andrade@gmail.com 
 
 <!---
